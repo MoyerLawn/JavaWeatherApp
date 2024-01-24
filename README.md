@@ -20,7 +20,7 @@ This Weather App is a simple Java application that allows users to get current w
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/moyerlawn/weather-app.git
+   git clone [https://github.com/moyerlawn/weather-app.git](https://github.com/MoyerLawn/JavaWeatherApp)
 
 2. **Compile and run the application:**
 
